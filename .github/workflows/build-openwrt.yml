@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: OpenWrt-EA8500
+name: OpenWrt-EA8500-0715
 
 on:
   repository_dispatch:
