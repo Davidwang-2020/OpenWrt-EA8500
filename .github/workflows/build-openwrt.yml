@@ -12,7 +12,7 @@ on:
   repository_dispatch:
   release:
     types: published
-  #push:
+  push:
     branches:
       - master
     paths:
